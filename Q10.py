@@ -1,5 +1,5 @@
 # Program: Smart Calculator & Data Manager
-
+# importin modules
 import math     # for scientific calculations
 import random   # for random numbers
 import time     # for timestamp
