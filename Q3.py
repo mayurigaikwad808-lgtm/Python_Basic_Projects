@@ -1,5 +1,5 @@
 # Program: Manage Marks
-
+# function to manage marks
 def manage_marks():
     marks = []   # empty list to store marks
     
