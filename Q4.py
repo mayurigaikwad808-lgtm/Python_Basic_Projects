@@ -1,5 +1,5 @@
 # Program: Student Class with Marks
-
+# creating class student
 class Student:
     # constructor to initialize student details
     def __init__(self, name, roll_no):
