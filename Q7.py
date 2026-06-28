@@ -1,5 +1,5 @@
 # Program: Lambda + range() + Lists
-
+# firstly including try-except block
 try:
     # lambda function to calculate square
     square = lambda x: x * x
