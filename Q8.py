@@ -1,5 +1,5 @@
 # Program: Employee Class with Dictionary
-
+# defining class Employee
 class Employee:
     # constructor to initialize employee details
     def __init__(self, emp_id, name, details):
