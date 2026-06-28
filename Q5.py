@@ -1,5 +1,5 @@
 # Program: Student Database using Dictionary
-
+# function of student_database
 def student_database():
     students = {}   # dictionary to store student records
     
